@@ -1,0 +1,11 @@
+DELETE FROM artist_genre;
+DELETE FROM album_genre;
+DELETE FROM album_artist;
+DELETE FROM songs_list;
+DELETE FROM play_lists;
+DELETE FROM songs;
+DELETE FROM users;
+DELETE FROM genres;
+DELETE FROM artists;
+DELETE FROM albums;
+DELETE FROM resource;

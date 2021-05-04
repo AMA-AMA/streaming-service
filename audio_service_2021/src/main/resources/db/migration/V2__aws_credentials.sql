@@ -1,0 +1,5 @@
+--insert into credentials (id, name, username, password) values (1,'aws',
+--'d75469a841a401e77eed7634d550c5635108679ef850ae6413dad3c95fc86cf315ddfb313dca9b123149c696bfa8a204',
+--'bfcbca93814a9ce5003121a937f965a229a7e0d1c14ff02373a18ca46420d51daf2b5efd5c521ebb137e69e23c1b3f1194ddb35253cb1c9bfa9207744d9c1c95');
+--
+--ALTER SEQUENCE hibernate_sequence RESTART WITH 2;
